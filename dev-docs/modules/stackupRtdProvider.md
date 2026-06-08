@@ -27,7 +27,7 @@ The Stack Up RTD module enriches Prebid.js bid requests with contextual and audi
 
 Every bidder that participates in the auction receives these segments in its `ortb2` object. No cookies, fingerprints, or user identifiers are transmitted to the Stack Up API — only a URL path and publisher domain.
 
-Contact [anton@stackup-ai.com](mailto:anton@stackup-ai.com) to obtain a `pubId`.
+Become a member of Stack Up in order to receive your `pubId`. Contact [chen@stackup-ai.com](mailto:chen@stackup-ai.com) for more details.
 
 ## Build
 
